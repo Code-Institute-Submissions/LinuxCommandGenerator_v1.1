@@ -8,7 +8,7 @@
     "http-server": "^0.12.1"
   },
   "devDependencies": {
-    "cypress": "^4.1.0"
+    "cypress": "^4.12.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
